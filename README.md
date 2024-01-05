@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandarr
-- 👀 I’m interested in: learning to web
+- 👀 I’m interested in: drilling the fundamentals
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: Bat Signal
