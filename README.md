@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bandarr
 - 👀 I’m interested in: learning to web
-- 🌱 I’m currently learning Python, Fortran, JavaScript, TypeScript, Go, COBOL, LISP, Ruby, Rust
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: Bat Signal
 
 <!---
